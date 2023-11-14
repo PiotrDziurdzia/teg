@@ -1,3 +1,3 @@
-# Thermoelectric Generator Model
+# Thermoelectric Generator LTspice Model
 
 ![TEG](TEG.PNG)
