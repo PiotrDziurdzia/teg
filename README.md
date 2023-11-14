@@ -1,1 +1,1 @@
-# teg
+# Thermoelectric Generator Model
